@@ -1,0 +1,8 @@
+{
+  "appId": "xyz.brittoo.dusk",
+  "appName": "Dusk Pick & Drop",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
