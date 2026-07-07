@@ -1,0 +1,8 @@
+device,mode,start,dur_min,cam_on_s,duty_pct,wakes,commits,timeouts,frames_mean,w2c_ms,drain_pct_30min
+Infinix X6812,dusk,07-07 16:00,3.1,42.7,23.3,4,2,2,8.0,6770,
+Infinix X6812,dusk,07-07 16:28,6.7,63.6,15.9,9,1,6,8.0,3167,
+Infinix X6812,dusk,07-07 16:51,2.0,14.1,12.0,2,1,0,4.0,7332,
+Windows NT 10.0,always,07-07 16:00,4.7,279.2,100.0,0,8,0,9.5,124992,
+Windows NT 10.0,always,07-07 16:33,1.9,116.7,100.0,0,4,0,8.0,60402,
+Windows NT 10.0,always,07-07 16:43,4.3,185.0,71.8,0,4,0,15.0,62503,
+Windows NT 10.0,always,07-07 16:53,1.1,67.7,100.0,0,4,0,11.0,49412,
